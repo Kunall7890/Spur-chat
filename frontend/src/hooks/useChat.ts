@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 import { sendMessage, fetchHistory } from "../api/chat";
-import { ChatMessage } from "../type";
+import { ChatMessage } from "../types.ts";
 
 const SESSION_KEY = "shopease_session_id";
 
