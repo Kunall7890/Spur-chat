@@ -14,8 +14,7 @@ A production-ready, full-stack AI-powered customer support chat widget built for
 [![SQLite](https://img.shields.io/badge/SQLite-3.x-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![Groq Cloud](https://img.shields.io/badge/Groq-Llama_3.3_70B-orange?style=for-the-badge)](#)
 
-* 🌐 **Frontend URL:** `https://your-frontend-url.com`
-* ⚡ **Backend API URL:** `https://your-backend-url.com`
+* **Live Demo:** [https://spur-chat-omega.vercel.app](https://spur-chat-omega.vercel.app)
 
 ---
 
